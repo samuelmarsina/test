@@ -1,0 +1,35 @@
+body{
+    background-image: url("esport-akce-turnaj-epsportovy-turnaj.jpeg");
+    background-size: cover;
+
+}
+
+.black{
+    color: white;
+    text-align: center;
+    font-style: oblique;
+    list-style-type: square;
+}
+
+.black2{
+    color: white;
+    text-align: center;
+    font-style: oblique;
+    list-style-type: square;
+}
+
+.list{
+    color: white;
+    text-align: center;
+    font-style: oblique;
+    font-size: x-large;
+    list-style-type: square;
+}
+
+.list2{
+    color: white;
+    text-align: center;
+    font-style: oblique;
+    font-size: x-large;
+    list-style-type: square;
+}
